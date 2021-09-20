@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shashank7952
-- 👀 I’m interested in frontend development
+- 👀 I’m interested in front-end development
 - 🌱 I’m currently learning CSS and HTML
 - 💞️ I’m looking to collaborate on basic CSS and HTML projects
 - 📫 How to reach me : shashank7952@gmail.com
